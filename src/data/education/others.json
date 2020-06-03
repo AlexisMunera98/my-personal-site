@@ -1,0 +1,12 @@
+{
+  "slug": "others",
+  "title": "Otros Cursos",
+  "description": "Otra formacion",
+  "items": [
+    {
+      "name": "Universidad de Medellin",
+      "degree": "English language",
+      "score": "B2"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "online",
+  "title": "Cursos en linea",
+  "description": "Cursos en linea",
+  "items": [
+    {
+      "name": "Python",
+      "url": "http://codigofacilito.com/courses/materialize"
+    },
+    {
+      "name": "Django",
+      "url": "http://codigofacilito.com/courses/python"
+    }
+  ]
+}

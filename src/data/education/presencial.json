@@ -1,0 +1,17 @@
+{
+  "slug": "presencial",
+  "title": "Formacion académica",
+  "description": "Formacion académica, grados de estudio",
+  "items": [
+    {
+      "name": "Universidad de Medellin",
+      "degree": "Ingenieria en Sistemas",
+      "score": "100"
+    },
+    {
+      "name": "Universidad de Medellin",
+      "degree": "Especialista en Ingenieria de Software",
+      "score": "100"
+    }
+  ]
+}

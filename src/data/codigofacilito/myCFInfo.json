@@ -1,0 +1,58 @@
+{
+  "data": {
+    "email": "alexismunera98@gmail.com",
+    "username": "alexismunera98",
+    "certificates": [
+      {
+        "score": 9,
+        "code": "e963bfcf-cc9d-4734-b114-5e188a615d01",
+        "title": "Curso Profesional de Python"
+      }
+    ],
+    "articles": [],
+    "courses": [
+      {
+        "title": "Curso de Go Gratis",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/go"
+      },
+      {
+        "title": "Android + Kinvey (Backend as a service)",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/android-kinvey"
+      },
+      {
+        "title": "Curso de AngularJS Gratis",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/angularjs"
+      },
+      {
+        "title": "Curso Profesional de Python",
+        "progress": "100.0",
+        "url": "http://codigofacilito.com/courses/python-profesional"
+      },
+      {
+        "title": "Curso de backend con Sailsjs",
+        "progress": "46.0",
+        "url": "http://codigofacilito.com/courses/sailsjs"
+      },
+      {
+        "title": "Curso Profesional de Backend",
+        "progress": "4.0",
+        "url": "http://codigofacilito.com/courses/backend-profesional"
+      },
+      {
+        "title": "Crea un sitio personal con Gatsby",
+        "progress": "50.0",
+        "url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
+      }
+    ],
+    "finished_courses": [
+      {
+        "title": "Curso Profesional de Python",
+        "url": "http://codigofacilito.com/courses/python-profesional"
+      }
+    ]
+  },
+  "errors": []
+}

@@ -1,0 +1,30 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+body{
+    @apply bg-gray-100
+}
+
+.btn {
+    @apply bg-yellow-400 text-yellow-800 font-bold rounded border-yellow-700 py-2 px-4 border-b-4;
+}
+
+.repos-list {
+    columns: 3;
+    -moz-columns: 3;
+    column-rule: 1px solid;
+    @apply  p-4;
+}
+
+.repos-list li{
+    break-inside: avoid-column;
+}
+
+.vertical-text{
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    @apply bg-yellow-300 text-yellow-800 text-xs p-2 inline-block capitalize;
+}
